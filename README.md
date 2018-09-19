@@ -1,0 +1,1 @@
+# omnisharp-test-crash
